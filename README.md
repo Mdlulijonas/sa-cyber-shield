@@ -1,0 +1,2 @@
+# sa-cyber-shield
+South African Cyber Security Browser Extension - Protect against phishing, scams, and online threats
